@@ -1,0 +1,6 @@
+cd /entrare nella cartella
+cd .. /tornare indietro
+gcc nomefile.c /trascrivere
+./a.out /runnare
+pwd /vedere posizione
+touch /creare file
